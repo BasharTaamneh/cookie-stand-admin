@@ -95,7 +95,7 @@ function Form(props) {
                         >
                             <div className="absolute h-full bg-green-700 border rounded-lg -inset-x-0 inset-y-2 -buttom-2"></div>
                             
-                            <div className="relative w-64 px-6 py-6 duration-150 transform bg-green-500 border border-gray-500 rounded-lg shadow-2xl transision hover:translate-y-2">Creat</div>
+                            <div className="relative w-64 px-6 py-6 duration-150 transform bg-green-500 border border-gray-500 rounded-lg shadow-2xl transision hover:translate-y-2">Create</div>
                         </button>
 
                     </div>
