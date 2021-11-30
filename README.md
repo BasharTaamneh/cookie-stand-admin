@@ -16,4 +16,4 @@
 
 ---
 
-## [PR](https://github.com/BasharTaamneh/cookie-stand-admin/pull/1)
+## [PR](https://github.com/BasharTaamneh/cookie-stand-admin/pull/2)
