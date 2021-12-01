@@ -43,7 +43,7 @@ export default function CookieStandAdmin() {
             <>
                 <div className="flex flex-col items-center justify-center flex-1 w-full text-center bg-green-50">
                     <Form handleSubmit={handleSubmit} />
-                    <ReportTable reports={reports} hours={hours} />
+                    <ReportTable reports={reports} hours={hours} handleSubmit={handleSubmit}/>
                 </div>
             </>
         )
