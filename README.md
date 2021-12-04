@@ -14,8 +14,9 @@
 
 - **Cookie Stand Admin v1**  _completed class_37_  29-11-2021
 - **Cookie Stand Admin v2**  _completed class_38_  23-11-2021
-
+- **Cookie Stand Admin v3**  _completed class_39_  05-12-2021
 ---
 
 ## [PR_1](https://github.com/BasharTaamneh/cookie-stand-admin/pull/1)
 ## [PR_2](https://github.com/BasharTaamneh/cookie-stand-admin/pull/2)
+## [PR_3](https://github.com/BasharTaamneh/cookie-stand-admin/pull/3)
