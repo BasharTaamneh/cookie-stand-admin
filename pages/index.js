@@ -1,13 +1,12 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 
-import Admin from "../components/CookieStandAdmin"
-
-export default function Home() {
+import Home from "./Home"
+export default function pages() {
 
   return (
 
-    <div className="flex-col flexs">
-      <Admin/>
+    <div >
+      <Home/>
     </div>
     
   )
