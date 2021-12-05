@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import useResource from '../../hooks/useResource'
+import useResource from '../hooks/useResource'
 
 export default function ReportTable({hours}) {
     const { resources, loading, deleteResource } = useResource();
