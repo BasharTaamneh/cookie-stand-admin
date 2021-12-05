@@ -1,11 +1,11 @@
 import { useAuth } from "../contexts/auth"
 
 import Head from 'next/head'
-import Header from "./components/Header"
-import LoginForm from "./components/LoginForm"
+import Header from "../components/Header"
+import LoginForm from "../components/LoginForm"
 
-import Admin from "./components/CookieStandAdmin"
-import Footer from "./components/Footer"
+import Admin from "../components/CookieStandAdmin"
+import Footer from "../components/Footer"
 export default function Home() {
     const { login , user, logout } = useAuth()
     console.log(user);

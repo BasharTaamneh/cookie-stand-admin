@@ -5,8 +5,8 @@ import { hours } from "../data"
 
 import Form from "./CreateForm"
 import ReportTable from "./ReportTable"
-import useResource from "../../hooks/useResource"
-import { useAuth } from "../../contexts/auth"
+import useResource from "../hooks/useResource"
+import { useAuth } from "../contexts/auth"
 export default function CookieStandAdmin() {
     const { user } = useAuth()
     const { resources, loading, createResource } = useResource();
