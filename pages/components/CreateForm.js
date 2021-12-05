@@ -5,7 +5,7 @@ export default function Form({ handleSubmit }) {
     return (
         <>
 
-            <form onSubmit={handleSubmit} className="flex justify-center w-11/12 p-2 bg-green-200 rounded shadow-2xl h-72">
+            <form onSubmit={handleSubmit} className="flex justify-center w-11/12 p-2 overflow-x-auto bg-green-200 rounded shadow-2xl h-72">
                 <div className="w-full">
 
 
